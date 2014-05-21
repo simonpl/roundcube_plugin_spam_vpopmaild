@@ -4,19 +4,19 @@ Roundcube Plugin Spam Vpopmaild
 Setup
 -----
 
-0. Make sure that your installation of vpopmaild. If you need to know
+1. Make sure that your installation of vpopmaild is up and running. If you need to know
    how to setup the daemon, see `/doc/README.vpopmaild` in the source folder
    of vpopmail.
 
-1. Copy the files `spam_vpopmaild.php`, `config.inc.php.dist` and the 
+2. Copy the files `spam_vpopmaild.php`, `config.inc.php.dist` and the 
    folder `localization` to a folder named `spam_vpopmaild` into the 
    directory `plugins` of your Roundcube installation.
-   
-2. Rename `config.inc.php.dist` to `config.inc.php`.
 
-3. Adjust the values in `config.inc.php` to the values that match to
+3. Rename `config.inc.php.dist` to `config.inc.php`.
+
+4. Adjust the values in `config.inc.php` to the values that match to
    your setup.
-   
+
 Usage
 -----
 
