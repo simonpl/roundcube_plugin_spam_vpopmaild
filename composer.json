@@ -1,0 +1,27 @@
+{
+    "name": "simonpl/spam_vpopmaild",
+    "type": "roundcube-plugin",
+    "description": "let's you adjust the spam preferences via vpopmaild",
+    "keywords": ["spam","preferences", "vpopmaild"],
+    "homepage": "https://github.com/simonpl/roundcube_plugin_spam_vpopmaild",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Simon Plasger",
+            "email": "simon.plasger@web.de",
+            "homepage": "https://github.com/simonpl",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "roundcube/plugin-installer": ">=0.7.0"
+    }
+}
+
