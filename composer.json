@@ -4,7 +4,7 @@
     "description": "let's you adjust the spam preferences via vpopmaild",
     "keywords": ["spam","preferences","vpopmaild"],
     "homepage": "https://github.com/simonpl/roundcube_plugin_spam_vpopmaild",
-    "license": "GNU GPLv3+",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Simon Plasger",
