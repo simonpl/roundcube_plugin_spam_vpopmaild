@@ -6,7 +6,7 @@
  *
  * @version 1.0
  * @author Simon Plasger
- * @url 
+ * @url https://github.com/simonpl/roundcube_plugin_spam_vpopmaild
  * @license GPLv3+
  */
 class spam_vpopmaild extends rcube_plugin
