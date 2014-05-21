@@ -1,0 +1,13 @@
+<?php
+
+// Spam Vpopmaild options
+// -----------------------
+
+// Host of vpopmaild
+$config['spam_vpopmaild_host'] = 'localhost';
+
+// TCP port used for vpopmaild connections
+$config['spam_vpopmaild_port'] = 89;
+
+// Timout used for the connection to vpopmaild (in seconds)
+$config['spam_vpopmaild_timeout'] = 10;
