@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Προστασία από ανεπιθύμητα μηνύματα";
+$labels['spam_on_off'] = "Ενεργοποίηση/απενεργοποίηση προστασίας από ανεπιθύμητα μηνύματα";
+$labels['detection'] = "Ενεργοποίηση ανίχνευσης ανεπιθύμητων μηνυμάτων";
+$labels['delete'] = "Διαγραφή μηνυμάτων που ανιχνεύτηκαν ως ανεπιθύμητα";
+$labels['success'] = "Επιτυχής αποθήκευση";
+$labels['save_error'] = "Σφάλμα κατά την αποθήκευση";
+$labels['load_error'] = "Σφάλμα κατά την φόρτωση";
