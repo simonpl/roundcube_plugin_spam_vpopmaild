@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Spam beskyttelse";
+$labels['spam_on_off'] = "Aktiver/deaktiver spam beskyttelse";
+$labels['detection'] = "Aktiver spam detektering";
+$labels['delete'] = "Slet e-mails der ligner spam";
+$labels['success'] = "Gemt succesfuldt";
+$labels['save_error'] = "Der opstod en fejl under gemning";
+$labels['load_error'] = "Der opstod en fejl under indlæsning";

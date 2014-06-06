@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "הגנת ספאם";
+$labels['spam_on_off'] = "אפשר/נטרל הגנת ספאם";
+$labels['detection'] = "אפשר גלאי ספאם";
+$labels['delete'] = "מחק דואר שנחשד להיות ספאם";
+$labels['success'] = "נשמר בהצלחה";
+$labels['save_error'] = "שגיאה במהלך שמירה";
+$labels['load_error'] = "שגיאה במהלך טעינה";
