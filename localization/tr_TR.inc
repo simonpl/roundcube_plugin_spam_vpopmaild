@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Spam koruması";
+$labels['spam_on_off'] = "Spam koruması aç/kapat";
+$labels['detection'] = "Spam koruması aç";
+$labels['delete'] = "Spam görünen postaları sil";
+$labels['success'] = "Başarıyla kaydedildi";
+$labels['save_error'] = "Kaydederken hata oluştu";
+$labels['load_error'] = "Yüklenirken hata oluştu";
