@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Spam-Schutz";
+$labels['spam_on_off'] = "Aktivieren/deaktivieren Spam-Schutz";
+$labels['detection'] = "Spam-Schutz aktivieren";
+$labels['delete'] = "Nachrichten, welche Spam sein könnten, löschen";
+$labels['success'] = "Erfolgreich gespeichert";
+$labels['save_error'] = "Fehler beim Speichern";
+$labels['load_error'] = "Fehler beim Laden";
