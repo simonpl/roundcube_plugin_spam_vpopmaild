@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Apsauga nuo brukalo";
+$labels['spam_on_off'] = "Įjungti/išjungti apsaugą nuo brukalo";
+$labels['detection'] = "Įjungti brukalo aptikimo funkciją";
+$labels['delete'] = "Ištrinti laiškus, kurie yra brukalas";
+$labels['success'] = "Išsaugota sėkmingai";
+$labels['save_error'] = "Klaida saugant";
+$labels['load_error'] = "Klaida įkeliant";

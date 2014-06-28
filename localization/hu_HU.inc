@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Spam védelem";
+$labels['spam_on_off'] = "Ki/be kapcsolni a spam védelmet";
+$labels['detection'] = "Spam figyelés engedélyezése";
+$labels['delete'] = "A spamnek tünő levelek törlése";
+$labels['success'] = "A mentés sikeres";
+$labels['save_error'] = "Hiba lépett fel a mentés során ";
+$labels['load_error'] = "Hiba lépett fel a betöltés során ";
