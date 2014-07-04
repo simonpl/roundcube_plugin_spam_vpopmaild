@@ -88,7 +88,7 @@ class spam_vpopmaild extends rcube_plugin
             return false;
         }
         
-        $vpopmaild->setTimeout($rcmail->config->get('password_vpopmaild_timeout'),0);
+        $vpopmaild->setTimeout($rcmail->config->get('spam_vpopmaild_timeout'),0);
         
         $result = $vpopmaild->readLine();
         if(!preg_match('/^\+OK/', $result)) {
@@ -146,7 +146,7 @@ class spam_vpopmaild extends rcube_plugin
             return false;
         }
         
-        $vpopmaild->setTimeout($rcmail->config->get('password_vpopmaild_timeout'),0);
+        $vpopmaild->setTimeout($rcmail->config->get('spam_vpopmaild_timeout'),0);
         
         $result = $vpopmaild->readLine();
         if(!preg_match('/^\+OK/', $result)) {
