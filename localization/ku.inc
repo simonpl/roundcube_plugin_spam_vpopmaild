@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "Saved successfull";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "Parastina ji spaman";
+$labels['spam_on_off'] = "Parastina ji spaman veke/bigire";
+$labels['detection'] = "Spam-derdestkirinê çalak bike";
+$labels['delete'] = "Mailên mîna spaman xuya dikin rake";
+$labels['success'] = "Bi serkeftin hat tomarkirin";
+$labels['save_error'] = "Çewtî di tomarkirinê de";
+$labels['load_error'] = "Çewtî di barkirinê de";
