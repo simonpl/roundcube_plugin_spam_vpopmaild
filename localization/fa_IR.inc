@@ -1,8 +1,8 @@
 <?php
-$labels['spam_vpopmaild'] = "Spam protection";
-$labels['spam_on_off'] = "Enable/disable spam protection";
-$labels['detection'] = "Enable spam detection";
-$labels['delete'] = "Delete mails that seem to be spam";
-$labels['success'] = "با موفقیت ذخیره شد";
-$labels['save_error'] = "Error while saving";
-$labels['load_error'] = "Error while loading";
+$labels['spam_vpopmaild'] = "حفاظت اسپم";
+$labels['spam_on_off'] = "فعال/غیرفعال کردن حفاظت اسپم";
+$labels['detection'] = "فعال کردن حفاظت اسپم";
+$labels['delete'] = "حذف کردن نامه‌هایی که اسپم به نظر می‌رسند";
+$labels['success'] = "با کام‌یابی ذخیره شد";
+$labels['save_error'] = "خطاء هنگام ذخیره کردن";
+$labels['load_error'] = "خطاء هنگام بارگزاری کردن";
