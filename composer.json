@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Simon Plasger",
-            "email": "simon.plasger@web.de",
+            "email": "roundcube@simonpl.de",
             "homepage": "https://github.com/simonpl",
             "role": "Developer"
         }
@@ -26,7 +26,7 @@
     },
     "support":
         {
-        "email": "simon.plasger@web.de",
+        "email": "roundcube@simonpl.de",
         "issues": "https://github.com/simonpl/roundcube_plugin_spam_vpopmaild/issues",
         "source": "https://github.com/simonpl/roundcube_plugin_spam_vpopmaild"
     }
